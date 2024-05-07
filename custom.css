@@ -1,0 +1,14 @@
+/* ADD YOUR CUSTOM CSS TO THIS FILE BELOW */
+.navbar-brand {
+  font-size: 50px;
+  font-family: Verdana, sans-serif;
+  font-weight: bold;
+}
+
+.fw-bolder {
+  font-family: Verdana, sans-serif;
+}
+
+.img {
+  padding: 10 10 10 10;
+}
